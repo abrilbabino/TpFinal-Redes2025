@@ -11,10 +11,10 @@
 
 ## Archivos Incluidos
 
-- `TYR2025-TPFINAL-Babino-199147.pdf`: Informe completo del trabajo práctico.
-- `captura.pcapng`: Archivo de captura de tráfico de red en formato Wireshark.  
-- `overhead.xlsx`: Tabla y gráficos del cálculo de overhead por protocolo (si aplica).  
-- Otros archivos de apoyo y configuración utilizados en la simulación.
+- `TYR2025-TPFINAL-Babino-199147.pdf`: Informe del trabajo práctico.
+- `captura_tpfinal.cap`: Archivo de captura de tráfico de red en formato Wireshark.  
+- `TYR2025-TPFINAL-Babino-199147.xlsx`: Tabla y gráficos del cálculo de overhead por protocolo.  
+- `Diagrama de intercambios.drawio`: Resolución del punto 5.
 
 ---
 
